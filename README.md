@@ -1,4 +1,4 @@
-# Bidding Go 
+# BiddingGo 
 
 <p align="center">
 <img src="" />
@@ -6,7 +6,7 @@
 
 ---
 
-# Bidding Mate
+# Bidding mate
 
 <table>
   
@@ -54,6 +54,7 @@
 
 
 # 목차
+<br/>
 
 1. [프로젝트 개요](#1--프로젝트-개요)
 2. [요구사항 정의서](#2--요구사항-정의서)
@@ -70,7 +71,7 @@
 
 # 1.  프로젝트 개요
 
-### 
+<br/> 
 
 
 ---
@@ -84,7 +85,7 @@
 ---
 
 # 3.  ERD
-![](img/erd.png)
+![](img/erd.png)<br/>
 🔗[ ERD ](https://www.erdcloud.com/d/dDdGFuogL2iKmdRJm)
 
 ---
@@ -96,30 +97,28 @@
 ---
 
 # 5.  시스템 아키텍처
-![](img/archi.PNG)<br/>
+<br/>
 
 ---
 
 # 6.  API 명세서
-![](img/api.PNG)<br/>
-🔗[ API 명세서 ]()
+<br/>
 
 ---
 
 # 7.  화면 및 기능 설계서
-![](img/view.PNG)<br/>
-🔗[ 화면 및 기능 설계서 ]()
+<br/>
 
 ---
 
 # 8.  테스트 계획 및 결과 보고서
-![](img/test.PNG)<br/>
-🔗[ 테스트 계획 및 결과 보고서 ]()
+<br/>
 
 
 ---
 
 # 9.  회고
+<br/>
 
 #### 김진혁
 > 작성
