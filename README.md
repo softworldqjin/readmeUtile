@@ -79,8 +79,7 @@
 
 # 2.  요구사항 정의서
 ![](img/Srs.png)<br/>
-🔗[ 요구사항 정의서 1 ](https://docs.google.com/spreadsheets/d/16YGKpTcpo310JjvUu9Q1Nm9atCI-XYx5TB2GD3ocx3E/edit?gid=1771602914#gid=1771602914)
-🔗[ 요구사항 정의서 2 ](https://docs.google.com/spreadsheets/d/16YGKpTcpo310JjvUu9Q1Nm9atCI-XYx5TB2GD3ocx3E/edit?gid=109402796#gid=109402796)
+🔗[ 요구사항 정의서 ](https://docs.google.com/spreadsheets/d/16YGKpTcpo310JjvUu9Q1Nm9atCI-XYx5TB2GD3ocx3E/edit?gid=1771602914#gid=1771602914)
 
 ---
 
