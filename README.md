@@ -70,7 +70,7 @@
 
 # 1.  프로젝트 개요
 
-### 1
+### 작성
 
 
 ---
@@ -79,19 +79,20 @@
 
 # 2.  요구사항 정의서
 ![](img/Srs.png)<br/>
-🔗[ 요구사항 명세서 ](https://docs.google.com/spreadsheets/d/1t-3yzFlvFUKhRYMtjQxSj4t5rjAZPjR0/edit?gid=1080029165#gid=1080029165)
+🔗[ 요구사항 명세서 1 ](https://docs.google.com/spreadsheets/d/16YGKpTcpo310JjvUu9Q1Nm9atCI-XYx5TB2GD3ocx3E/edit?gid=1771602914#gid=1771602914)
+🔗[ 요구사항 명세서 2 ](https://docs.google.com/spreadsheets/d/16YGKpTcpo310JjvUu9Q1Nm9atCI-XYx5TB2GD3ocx3E/edit?gid=109402796#gid=109402796)
 
 ---
 
 # 3.  ERD
 ![](img/erd.png)
-🔗[ ERD ](https://www.erdcloud.com/d/uzGd5MBTRGSqNebu2)
+🔗[ ERD ](https://www.erdcloud.com/d/dDdGFuogL2iKmdRJm)
 
 ---
 
 # 4.  테이블 정의서
 ![](img/table.PNG)<br/>
-🔗[ 테이블 명세서 ](https://docs.google.com/spreadsheets/d/1HM-mU0-lc_Kd9HSFikO5GXxtWctQNYoIqnbgs6Q8_N0/edit?gid=993473287#gid=993473287)
+🔗[테이블 정의서](https://docs.google.com/spreadsheets/d/1OoOrOKj8uusUITQNaMLExuCe3ReM_St3hvvKVMiX4vM/edit?gid=315508468#gid=315508468)
 
 ---
 
@@ -102,19 +103,19 @@
 
 # 6.  API 명세서
 ![](img/api.PNG)<br/>
-🔗[ API 명세서 ](https://docs.google.com/spreadsheets/d/1HM-mU0-lc_Kd9HSFikO5GXxtWctQNYoIqnbgs6Q8_N0/edit?gid=993473287#gid=993473287)
+🔗[ API 명세서 ]()
 
 ---
 
 # 7.  화면 및 기능 설계서
 ![](img/view.PNG)<br/>
-🔗[ 화면 및 기능 설계서 ](https://docs.google.com/spreadsheets/d/1HM-mU0-lc_Kd9HSFikO5GXxtWctQNYoIqnbgs6Q8_N0/edit?gid=993473287#gid=993473287)
+🔗[ 화면 및 기능 설계서 ]()
 
 ---
 
 # 8.  테스트 계획 및 결과 보고서
 ![](img/test.PNG)<br/>
-🔗[ 테이블 명세서 ](https://docs.google.com/spreadsheets/d/1HM-mU0-lc_Kd9HSFikO5GXxtWctQNYoIqnbgs6Q8_N0/edit?gid=993473287#gid=993473287)
+🔗[ 테스트 계획 및 결과 보고서 ]()
 
 
 ---
