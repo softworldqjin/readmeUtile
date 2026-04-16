@@ -84,14 +84,15 @@
 
 # 3.  ERD
 ![](img/erd.png)<br/>
-🔗[ ERD ](https://www.erdcloud.com/d/dWKrWvBcWyqzdomS4)
+🔗[ ERD ](https://www.erdcloud.com/d/KdYRE8i9mnqYda2L5)
 
 ---
 
 # 4.  테이블 정의서
 ![](img/table.PNG)<br/>
-🔗[테이블 정의서](https://docs.google.com/spreadsheets/d/1OoOrOKj8uusUITQNaMLExuCe3ReM_St3hvvKVMiX4vM/edit?gid=315508468#gid=315508468)
+🔗[MariaDB 테이블 정의서](https://docs.google.com/spreadsheets/d/1OoOrOKj8uusUITQNaMLExuCe3ReM_St3hvvKVMiX4vM/edit?gid=573455609#gid=573455609)
 
+🔗[Supabase 테이블 정의서](https://docs.google.com/spreadsheets/d/1OoOrOKj8uusUITQNaMLExuCe3ReM_St3hvvKVMiX4vM/edit?gid=141144957#gid=141144957)
 ---
 
 # 5.  시스템 아키텍처
