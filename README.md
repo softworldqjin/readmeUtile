@@ -1,6 +1,7 @@
-<p align="center">
-<img src="https://github.com/user-attachments/assets/916371da-792e-44b1-8622-dcf7daae89a1" />
-</p>
+<div align="center">
+  <h3><a href="https://www.bidding-go.shop/">비딩고 바로가기</a></h3>
+  <img src="https://github.com/user-attachments/assets/916371da-792e-44b1-8622-dcf7daae89a1" />
+</div>
 
 ---
 
