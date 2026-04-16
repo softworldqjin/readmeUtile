@@ -93,6 +93,7 @@
 🔗[MariaDB 테이블 정의서](https://docs.google.com/spreadsheets/d/1OoOrOKj8uusUITQNaMLExuCe3ReM_St3hvvKVMiX4vM/edit?gid=573455609#gid=573455609)
 
 🔗[Supabase 테이블 정의서](https://docs.google.com/spreadsheets/d/1OoOrOKj8uusUITQNaMLExuCe3ReM_St3hvvKVMiX4vM/edit?gid=141144957#gid=141144957)
+
 ---
 
 # 5.  시스템 아키텍처
