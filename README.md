@@ -5,7 +5,7 @@
 
 ---
 
-## BIDDINGMATE
+# Bidding mate
 
 <table>
   
