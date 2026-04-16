@@ -118,7 +118,7 @@
 
 # 8.  테스트 계획 및 결과 보고서
 <br/>
-
+🔗[테스트 계획 및 결과 보고서](https://docs.google.com/spreadsheets/d/16YGKpTcpo310JjvUu9Q1Nm9atCI-XYx5TB2GD3ocx3E/edit?gid=1106294099#gid=1106294099)
 
 ---
 
