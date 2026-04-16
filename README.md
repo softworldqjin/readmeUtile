@@ -99,8 +99,7 @@
 # 5.  시스템 아키텍처
 <br/>
 
-![](https://github.com/user-attachments/assets/eed47445-9e96-4e64-81fb-89c70d8bb9e1
-)<br/>
+![](https://github.com/user-attachments/assets/15f9e2e3-2915-4a29-8dea-22d367af813c)<br/>
 
 ---
 # 6.  API 명세서
