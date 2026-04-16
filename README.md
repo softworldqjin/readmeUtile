@@ -1,5 +1,5 @@
 <div align="center">
-  <h3><a href="https://www.bidding-go.shop/">biddinggo 바로가기</a></h3>
+  <h3><a href="https://www.bidding-go.shop/">Biddinggo 바로가기</a></h3>
   <img src="https://github.com/user-attachments/assets/916371da-792e-44b1-8622-dcf7daae89a1" />
 </div>
 
