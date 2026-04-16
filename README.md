@@ -105,7 +105,7 @@
 ---
 # 6.  API 명세서
 ![](img/table.PNG)<br/>
-🔗[API 명세서](https://hill-work-100.notion.site/3291072487c380e2a69eff6a242b2e82?v=3291072487c381608c7f000c0d215d7a)
+🔗[API 명세서](https://www.notion.so/31e1072487c38010b4d4f280f3e03481?v=31e1072487c381709755000ca276af3c&source=copy_link)
 <br/>
 
 ---
