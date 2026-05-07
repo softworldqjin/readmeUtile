@@ -613,31 +613,59 @@ k8s/*.yml 수정 및 Git push
 4. argo CD는 Git 상태 자동 감지
 fornt/back 각각의 변경에 대해서 무중단 배포 실행
 
-## 젠킨스 수행
+## 백엔드 
+### 젠킨스 수행
 
-🔗[ 백엔드 젠킨스 ](https://www.youtube.com/watch?v=b3qnU8Um2ZM)
+📽️[ 백엔드 젠킨스 ](https://www.youtube.com/watch?v=8yNteZhcY50) 
 
-🔗[ 프론트 젠킨스 ](https://youtu.be/_hK3hV3y_qw)
+<img width="1310" height="647" alt="Image" src="https://github.com/user-attachments/assets/8c411deb-4b74-4100-a17f-de567d52722b" />
 
-🔗[ 통합관리 ]()
+### ArgoCD 배포
+
+📽️[ 백엔드 ArgoCD ](https://www.youtube.com/watch?v=AGdeFLccURE)
+
+<img width="1377" height="645" alt="Image" src="https://github.com/user-attachments/assets/bb3957e0-1e6d-4c8a-a2db-9a15f41dc6f0" />
+
+### Manifests 결과
+
+<img width="1907" height="876" alt="Image" src="https://github.com/user-attachments/assets/7d1f14ba-bc0d-4817-9f4a-18bb7c4f813b" />
 
 <br/>
 
-## Manifests 결과
+## 프론트
+### 젠킨스 수행
 
-<img width="1907" height="876" alt="Image" src="https://github.com/user-attachments/assets/7d1f14ba-bc0d-4817-9f4a-18bb7c4f813b" />
+📽️[ 프론트 젠킨스 ](https://youtu.be/bRz8vDVpGfo)
+
+<img width="1240" height="617" alt="Image" src="https://github.com/user-attachments/assets/d7e409b2-1358-4b1a-bea4-0572d7c29440" />
+
+### ArgoCD 배포
+
+📽️[ 프론트엔드 ArgoCD ](https://youtu.be/EYA67qtOV-g)
+
+<img width="1303" height="612" alt="Image" src="https://github.com/user-attachments/assets/f02b8098-34a3-4539-b46d-b3fca63f2bd3" />
+
+### Manifests 결과
 
 <img width="1918" height="956" alt="Image" src="https://github.com/user-attachments/assets/21a26651-5bf3-4905-ac68-7bf2eb10818e" />
 
 <br/>
 
-## ArgoCD 배포
+## 통합관리
+### 젠킨스 수헹
 
-🔗[ 백엔드 ](https://www.youtube.com/watch?v=86pjB1c-deQ)
+📽️[ 통합관리 젠킨스 ](https://youtu.be/LRn-8iS_6QM)
 
-🔗[ 프론트엔드 ](https://youtu.be/nkjNaA6b2sw)
+<img width="1227" height="610" alt="Image" src="https://github.com/user-attachments/assets/57ea576d-cc52-4b71-b26b-78126d151494" />
 
-🔗[ 통합 ](https://youtu.be/4KkbAsrXCrM)
+### ArgoCD 배포
+
+📽️[ 통합관리 ArgoCD ](https://youtu.be/4KkbAsrXCrM)
+
+<img width="1232" height="611" alt="Image" src="https://github.com/user-attachments/assets/00f7c850-076a-475f-b8b8-c25d86f6b123" />
+
+
+
 
 <br/>
 
