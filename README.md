@@ -67,7 +67,8 @@
 2. [시스템 아키텍처](#2--시스템-아키텍처)
 3. [CICD 파이프라인](#3--CICD-파이프라인)
 4. [시현](#4--시현)
-5. [회고](#5--회고)
+5. [발표자료](#5--발표자료)
+6. [회고](#6--회고)
 
 <br/>
 
@@ -600,7 +601,6 @@ pipeline {
 ---
 
 # 4.  시현
-<br/>
 
 ## 젠킨스 수행
 
@@ -608,13 +608,17 @@ pipeline {
 
 🔗[ 프론트 젠킨스 ](https://youtu.be/_hK3hV3y_qw)
 
-🔗[ 통합 ]()
+🔗[ 통합관리 ]()
+
+<br/>
 
 ## Manifests 결과
 
 <img width="1907" height="876" alt="Image" src="https://github.com/user-attachments/assets/7d1f14ba-bc0d-4817-9f4a-18bb7c4f813b" />
 
 <img width="1918" height="956" alt="Image" src="https://github.com/user-attachments/assets/21a26651-5bf3-4905-ac68-7bf2eb10818e" />
+
+<br/>
 
 ## ArgoCD 배포
 
@@ -637,7 +641,7 @@ pipeline {
 
 ---
 
-# 11.  회고
+# 6.  회고
 <br/>
 
 #### 김진혁
