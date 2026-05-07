@@ -321,6 +321,13 @@ pipeline {
 }
 
 ```
+<details><summary>파이프라인 상세</summary>
+  Declarative: Checkout SCM : Jenkins가 GitHub 저장소를 자동 체크아웃 <br/>
+  Check CI Skip : 최신 커밋 메시지에 [skip ci]가 있으면 파이프라인 스킵 <br/>
+  Detect Changed Areas : 변경 파일을 기준으로 frontend/backend의 manifest 변경 여부 감지 <br/>
+  Trigger Build Jobs : 변경된 영역의 하위 Jenkins Job을 순차 실행하고 빌드 번호 저장
+  </details>  
+  
 </details>
 
 <br/>
@@ -448,6 +455,13 @@ pipeline {
   }
 }
 ```
+<details><summary>파이프라인 상세</summary>
+  Declarative: Checkout SCM : Jenkins가 GitHub 저장소를 자동 체크아웃 <br/>
+  Docker Build : 프론트엔드 Docker 이미지를 Jenkins 빌드 번호 태그와 latest 태그로 빌드 <br/>
+  Push to GHCR : 빌드된 프론트엔드 이미지를 GHCR에 push <br/>
+  Update Frontend Deployment : Job 빌드 번호로 프론트엔드의 deployment.yaml 이미지 태그 수정 후 main에 push
+</details>
+
 </details>
 
 <br/>
@@ -574,6 +588,13 @@ pipeline {
   }
 }
 ```
+<details><summary>파이프라인 상세</summary>
+  Declarative: Checkout SCM : Jenkins가 GitHub 저장소를 자동 체크아웃 <br/>
+  Docker Build : 백엔드 Docker 이미지를 Jenkins 빌드 번호 태그와 latest 태그로 빌드 <br/>
+  Push to GHCR : 빌드된 백엔드 이미지를 GHCR에 push <br/>
+  Update Frontend Deployment : Job 빌드 번호로 백엔드의 deployment.yaml 이미지 태그 수정 후 main에 push
+</details>
+
 </details>
 
 ---
@@ -581,21 +602,27 @@ pipeline {
 # 4.  시현
 <br/>
 
-🔗[ 백 ]( )
+## 젠킨스 수행
 
-🔗[ 백 ]( )
+🔗[ 백엔드 젠킨스 ](https://www.youtube.com/watch?v=b3qnU8Um2ZM)
 
-🔗[ 백 ]( )
+🔗[ 프론트 젠킨스 ](https://youtu.be/_hK3hV3y_qw)
 
-🔗[ 프론트 ]( )
+🔗[ 통합 ]()
 
-🔗[ 프론트 ]( )
+## Manifests 결과
 
-🔗[ 프론트 ]( )
+<img width="1907" height="876" alt="Image" src="https://github.com/user-attachments/assets/7d1f14ba-bc0d-4817-9f4a-18bb7c4f813b" />
 
-🔗[ 1 ]( )
+<img width="1918" height="956" alt="Image" src="https://github.com/user-attachments/assets/21a26651-5bf3-4905-ac68-7bf2eb10818e" />
 
+## ArgoCD 배포
 
+🔗[ 백엔드 ](https://www.youtube.com/watch?v=86pjB1c-deQ)
+
+🔗[ 프론트엔드 ](https://youtu.be/nkjNaA6b2sw)
+
+🔗[ 통합 ](https://youtu.be/4KkbAsrXCrM)
 
 <br/>
 
