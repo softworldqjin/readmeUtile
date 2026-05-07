@@ -1,9 +1,17 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/1e36c230-8248-44f6-b5f0-971a78c39e9b" />
-</div>
-</br>
+# BiddingGo 
 
----
+<br>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/1e36c230-8248-44f6-b5f0-971a78c39e9b" width="300"/>
+</p>
+
+<br>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e839d356-1bb6-477b-a87f-feeed40d6e67"  width="1200"/>
+</p>
+
 
 # Bidding mate
 
@@ -19,12 +27,12 @@
   </tr>
   
   <tr>
-    <td align="center"><img width="120" alt="김진혁" src="https://github.com/user-attachments/assets/d44abc12-4269-4be2-a6a9-f76a531a963f" /></td>
-    <td align="center"><img width="120" alt="박선우" src="https://github.com/user-attachments/assets/cf47d2b7-7633-4f17-8cbe-8b6429ceef67" /></td>   
-    <td align="center"><img width="120" alt="윤정윤" src="https://github.com/user-attachments/assets/5cde1533-77e1-4783-8ce9-d48ec236c25d" /></td>   
-    <td align="center"><img width="120" alt="이민경" src="https://github.com/user-attachments/assets/f62ebf05-846f-462e-b4d3-3fa3c58ce4fb" /></td>  
-    <td align="center"><img width="120" alt="이애은" src="https://github.com/user-attachments/assets/79be4278-e3e9-44c5-af71-57d1831e9406" /></td>   
-    <td align="center"><img width="120" alt="한규진" src="https://github.com/user-attachments/assets/45b114ef-0e30-4bcc-94d2-dfd548aa9b7c" /></td>  
+    <td align="center"><img width="150" height="210" style="object-fit: cover;" alt="김진혁" src="https://github.com/user-attachments/assets/d44abc12-4269-4be2-a6a9-f76a531a963f" /></td>
+    <td align="center"><img width="150" height="210" style="object-fit: cover;" alt="박선우" src="https://github.com/user-attachments/assets/cf47d2b7-7633-4f17-8cbe-8b6429ceef67" /></td>   
+    <td align="center"><img width="150" height="210" style="object-fit: cover;" alt="윤정윤" src="https://github.com/user-attachments/assets/5cde1533-77e1-4783-8ce9-d48ec236c25d" /></td>   
+    <td align="center"><img width="150" height="210" style="object-fit: cover;" alt="이민경" src="https://github.com/user-attachments/assets/f62ebf05-846f-462e-b4d3-3fa3c58ce4fb" /></td>  
+    <td align="center"><img width="150" height="210" style="object-fit: cover;" alt="이애은" src="https://github.com/user-attachments/assets/79be4278-e3e9-44c5-af71-57d1831e9406" /></td>   
+    <td align="center"><img width="150" height="210" style="object-fit: cover;" alt="한규진" src="https://github.com/user-attachments/assets/45b114ef-0e30-4bcc-94d2-dfd548aa9b7c" /></td>  
   </tr>
 
   <tr>
@@ -56,24 +64,15 @@
 <br/>
 
 1. [프로젝트 개요](#1--프로젝트-개요)
-2. [요구사항 정의서](#2--요구사항-정의서)
-3. [기술 스택](#3--기술-스택)
-4. [ERD](#4--ERD)
-5. [테이블 정의서](#5--테이블-정의서)
-6. [시스템 아키텍처](#6--시스템-아키텍처)
-7. [API 명세서](#7--API-명세서)
-8. [테스트 계획 및 결과 보고서](#8--테스트-계획-및-결과-보고서)
-9. [회고](#9--회고)
+2. [시스템 아키텍처](#2--시스템-아키텍처)
+3. [CICD 파이프라인](#3--CICD-파이프라인)
+4. [시현](#4--시현)
+5. [회고](#5--회고)
 
 <br/>
 
 ---
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/e839d356-1bb6-477b-a87f-feeed40d6e67"  width="1200"/>
-</p>
-
-<br>
 
 # 1.  프로젝트 개요
 <br/> 
@@ -173,128 +172,461 @@
 
 ---
 
-# 2.  요구사항 정의서
-![](img/Srs.png)<br/>
-🔗[ 요구사항 정의서 ](https://docs.google.com/spreadsheets/d/16YGKpTcpo310JjvUu9Q1Nm9atCI-XYx5TB2GD3ocx3E)
+# 2.  시스템 아키텍처
+<br/>
+<img width="1235" height="1134" alt="Image" src="https://github.com/user-attachments/assets/96d61b52-ec98-406d-bae5-0f93b300c47b" />
+
 <br/>
 
 ---
 
-# 3.  기술 스택
+# 3.  CICD 파이프라인
 <br/>
 
-## 🔧 Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
-  <img src="https://img.shields.io/badge/oauth2-EB5424?style=for-the-badge&logo=oauth&logoColor=white">
-  <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
-  <img src="https://img.shields.io/badge/mybatis-000000?style=for-the-badge&logo=apache&logoColor=white">
-  <img src="https://img.shields.io/badge/flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white">
-</p>
+<details><summary>통합 관리 Jenkins 파이프라인</summary>
+<br/>
+<img width="1123" height="446" alt="Image" src="https://github.com/user-attachments/assets/6bb90a71-f81b-4b24-b9d6-31646931829a" />
+<br/>
+  
+```
+pipeline {
+  agent any
 
-## 🗄️ Database
-<p align="center">
-  <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/pgvector-000000?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
+  environment {
+    FRONTEND_JOB = 'biddinggo-frontend'
+    BACKEND_JOB = 'biddinggo-backend'
+  }
 
-## 🚀 Infra
-<p align="center">
-  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/docker--compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/cloudflare%20r2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
-  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/kt%20cloud-FF0000?style=for-the-badge&logo=icloud&logoColor=white">
-  <img src="https://img.shields.io/badge/ghcr-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-</p>
+  stages {
+    stage('Check CI Skip') {
+      steps {
+        script {
+          def skipStatus = sh(script: 'git rev-parse --is-inside-work-tree >/dev/null 2>&1 && git log -1 --pretty=%B | grep -q "\\[skip ci\\]"', returnStatus: true)
+          env.SKIP_PIPELINE = skipStatus == 0 ? 'true' : 'false'
+          if (env.SKIP_PIPELINE == 'true') {
+              env.SKIP_REASON = 'latest commit contains [skip ci]'
+              echo 'Skipping build because the latest commit contains [skip ci].'
+          }
+        }
+      }
+    }
 
-## 🔌 API
-<p align="center">
-  <img src="https://img.shields.io/badge/toss%20payments-0064FF?style=for-the-badge&logo=tosspayments&logoColor=white">
-  <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">
-</p>
+    stage('Detect Changed Areas') {
+      when {
+        expression { env.SKIP_PIPELINE != 'true' }
+      }
+      steps {
+        script {
+          def baseCommit = env.GIT_PREVIOUS_SUCCESSFUL_COMMIT ?: env.GIT_PREVIOUS_COMMIT
+          def changedText = ''
 
-## ⚙️ CI/CD
-<p align="center">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/ghcr-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-</p>
+          if (baseCommit?.trim() && sh(script: "git cat-file -e ${baseCommit}^{commit}", returnStatus: true) == 0) {
+            changedText = sh(script: "git diff --name-only ${baseCommit} HEAD", returnStdout: true).trim()
+          } else {
+            changedText = sh(script: "git show --name-only --pretty=format:'' HEAD", returnStdout: true).trim()
+          }
 
-## 🤝 Collaboration
-<p align="center">
-  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/erdcloud-0B4F6C?style=for-the-badge&logo=icloud&logoColor=white">
-  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</p>
+          def changedFiles = changedText ? changedText.split('\n').findAll { it } : []
+
+          env.FRONTEND_CHANGED = changedFiles.any { it.startsWith('infra/k8s/frontend/') }.toString()
+          env.BACKEND_CHANGED = changedFiles.any { it.startsWith('infra/k8s/backend/') }.toString()
+
+          echo "Changed files:\n${changedFiles.join('\n')}"
+          echo "Frontend changed: ${env.FRONTEND_CHANGED}"
+          echo "Backend changed: ${env.BACKEND_CHANGED}"
+        }
+      }
+    }
+
+    stage('Trigger Build Jobs') {
+      when {
+        expression { env.SKIP_PIPELINE != 'true' }
+      }
+      steps {
+        script {
+          if (env.FRONTEND_CHANGED == 'true') {
+            echo "Triggering frontend job: ${env.FRONTEND_JOB}"
+            def frontendBuild = build job: env.FRONTEND_JOB, wait: true
+            env.FRONTEND_BUILD_NUMBER = frontendBuild.number.toString()
+          }
+
+          if (env.BACKEND_CHANGED == 'true') {
+            echo "Triggering backend job: ${env.BACKEND_JOB}"
+            def backendBuild = build job: env.BACKEND_JOB, wait: true
+            env.BACKEND_BUILD_NUMBER = backendBuild.number.toString()
+          }
+
+          if (env.FRONTEND_CHANGED != 'true' && env.BACKEND_CHANGED != 'true') {
+            echo 'No frontend/backend source changes detected. Nothing to trigger.'
+          }
+        }
+      }
+    }
+  }
+
+  post {
+    success {
+      script {
+        if (env.SKIP_PIPELINE == 'true') {
+          echo """
+============================================================
+  ⏭️  CI skipped
+============================================================
+
+  🧭 Build
+    Job        : ${env.JOB_NAME} #${env.BUILD_NUMBER}
+    Duration   : ${currentBuild.durationString.replace(' and counting', '')}
+
+  📝 Reason
+    Message    : ${env.SKIP_REASON ?: 'latest commit contains [skip ci]'}
+
+============================================================
+"""
+        } else {
+          echo """
+============================================================
+  ✅ BiddingGo coordinator pipeline succeeded
+============================================================
+
+  🧭 Build
+    Job        : ${env.JOB_NAME} #${env.BUILD_NUMBER}
+    Duration   : ${currentBuild.durationString.replace(' and counting', '')}
+
+  🚦 Trigger
+    Frontend   : ${env.FRONTEND_CHANGED == 'true' ? env.FRONTEND_JOB : 'skipped'}
+    Backend    : ${env.BACKEND_CHANGED == 'true' ? env.BACKEND_JOB : 'skipped'}
+
+============================================================
+"""
+        }
+      }
+    }
+    failure {
+      echo """
+============================================================
+  ❌ BiddingGo coordinator pipeline failed
+============================================================
+
+  🧭 Build
+    Job        : ${env.JOB_NAME} #${env.BUILD_NUMBER}
+    Duration   : ${currentBuild.durationString.replace(' and counting', '')}
+
+  🔎 Debug
+    Console    : ${env.BUILD_URL}console
+
+============================================================
+"""
+    }
+  }
+}
+
+```
+</details>
+
+<br/>
+
+<details><summary>프론트엔드 Jenkins 파이프라인</summary>
+<br/>
+<img width="1127" height="440" alt="Image" src="https://github.com/user-attachments/assets/5c6c32db-d821-44ff-8f2c-358b3284f367" />
+<br/>
+  
+```
+pipeline {
+  agent any
+
+  options {
+    disableConcurrentBuilds()
+  }
+
+  environment {
+    GHCR_REGISTRY = 'ghcr.io'
+    GHCR_OWNER = 'beyond-sw-camp'
+    IMAGE_NAME = 'be25-3rd-biddingmate-biddinggo'
+    GHCR_IMAGE_NAME = "${GHCR_REGISTRY}/${GHCR_OWNER}/${IMAGE_NAME}"
+
+    CICD_REPO_URL = 'github.com/beyond-sw-camp/be25-4th-biddingmate-biddinggo.git'
+    FRONTEND_DEPLOYMENT_MANIFEST = 'infra/k8s/frontend/deployment.yaml'
+
+    VITE_API_BASE_URL = 'https://api.bidding-go.shop'
+    VITE_TOSS_CLIENT_KEY = 'test_ck_4yKeq5bgrpPoPA0lxOkXrGX0lzW6'
+  }
+
+  stages {
+    stage('Docker Build') {
+      steps {
+        script {
+          env.IMAGE_TAG = "${env.BUILD_NUMBER}"
+        }
+
+        sh '''
+          docker build --no-cache \
+            --build-arg VITE_API_BASE_URL=$VITE_API_BASE_URL \
+            --build-arg VITE_TOSS_CLIENT_KEY=$VITE_TOSS_CLIENT_KEY \
+            -t $GHCR_IMAGE_NAME:$IMAGE_TAG \
+            -t $GHCR_IMAGE_NAME:latest \
+            .
+        '''
+
+        sh 'docker image inspect $GHCR_IMAGE_NAME:$IMAGE_TAG'
+      }
+    }
+
+    stage('Push to GHCR') {
+      steps {
+        withCredentials([usernamePassword(credentialsId: 'github-token', usernameVariable: 'GITHUB_USER', passwordVariable: 'GITHUB_TOKEN')]) {
+          sh '''
+            echo "$GITHUB_TOKEN" | docker login $GHCR_REGISTRY -u "$GITHUB_USER" --password-stdin
+            docker push $GHCR_IMAGE_NAME:$IMAGE_TAG
+            docker push $GHCR_IMAGE_NAME:latest
+            docker logout $GHCR_REGISTRY
+          '''
+        }
+      }
+    }
+
+    stage('Update Frontend Deployment') {
+      steps {
+        withCredentials([usernamePassword(credentialsId: 'github-token', usernameVariable: 'GITHUB_USER', passwordVariable: 'GITHUB_TOKEN')]) {
+          sh '''
+            rm -rf cicd-repo
+            git clone https://$GITHUB_USER:$GITHUB_TOKEN@$CICD_REPO_URL cicd-repo
+
+            cd cicd-repo
+
+            git config user.name "jenkins-bot"
+            git config user.email "jenkins-bot@users.noreply.github.com"
+
+            sed -i "s|image: .*|image: $GHCR_IMAGE_NAME:$IMAGE_TAG|" $FRONTEND_DEPLOYMENT_MANIFEST
+
+            grep "image: $GHCR_IMAGE_NAME:$IMAGE_TAG" $FRONTEND_DEPLOYMENT_MANIFEST
+
+            git diff -- $FRONTEND_DEPLOYMENT_MANIFEST
+            git add $FRONTEND_DEPLOYMENT_MANIFEST
+            git diff --cached --quiet && echo "No frontend image change." || git commit -m "ci: update frontend image to $IMAGE_TAG [skip ci]"
+            git pull --rebase origin main
+            git push origin main
+          '''
+        }
+      }
+    }
+  }
+
+  post {
+    success {
+      echo """
+============================================================
+  ✅ BiddingGo frontend pipeline succeeded
+============================================================
+
+  🧭 Build
+    Job        : ${env.JOB_NAME} #${env.BUILD_NUMBER}
+    Duration   : ${currentBuild.durationString.replace(' and counting', '')}
+
+  🐳 Image
+    Version    : ${env.GHCR_IMAGE_NAME}:${env.IMAGE_TAG}
+
+============================================================
+"""
+    }
+
+    failure {
+      echo """
+============================================================
+  ❌ BiddingGo frontend pipeline failed
+============================================================
+
+  🧭 Build
+    Job        : ${env.JOB_NAME} #${env.BUILD_NUMBER}
+    Duration   : ${currentBuild.durationString.replace(' and counting', '')}
+
+  🔎 Debug
+    Console    : ${env.BUILD_URL}console
+
+============================================================
+"""
+    }
+  }
+}
+```
+</details>
+
+<br/>
+
+<details><summary>백엔드 Jenkins 파이프라인</summary>
+<br/>
+<img width="1121" height="442" alt="Image" src="https://github.com/user-attachments/assets/7b034184-27c5-470a-9f05-fa271e4390db" />
+<br/>
+  
+```
+pipeline {
+  agent any
+
+  options {
+    disableConcurrentBuilds()
+  }
+
+  environment {
+    GHCR_REGISTRY = 'ghcr.io'
+    GHCR_OWNER = 'beyond-sw-camp'
+    IMAGE_NAME = 'be25-2nd-biddingmate-biddinggo'
+    GHCR_IMAGE_NAME = "${GHCR_REGISTRY}/${GHCR_OWNER}/${IMAGE_NAME}"
+
+    CICD_REPO_URL = 'github.com/beyond-sw-camp/be25-4th-biddingmate-biddinggo.git'
+    BACKEND_DEPLOYMENT_MANIFEST = 'infra/k8s/backend/deployment.yaml'
+  }
+
+  stages {
+    stage('Docker Build') {
+      steps {
+        script {
+          env.IMAGE_TAG = "${env.BUILD_NUMBER}"
+        }
+
+        sh '''
+          docker build --no-cache \
+            -t $GHCR_IMAGE_NAME:$IMAGE_TAG \
+            -t $GHCR_IMAGE_NAME:latest \
+            .
+        '''
+
+        sh 'docker image inspect $GHCR_IMAGE_NAME:$IMAGE_TAG'
+      }
+    }
+
+    stage('Push to GHCR') {
+      steps {
+        withCredentials([usernamePassword(credentialsId: 'github-token', usernameVariable: 'GITHUB_USER', passwordVariable: 'GITHUB_TOKEN')]) {
+          sh '''
+            echo "$GITHUB_TOKEN" | docker login $GHCR_REGISTRY -u "$GITHUB_USER" --password-stdin
+            docker push $GHCR_IMAGE_NAME:$IMAGE_TAG
+            docker push $GHCR_IMAGE_NAME:latest
+            docker logout $GHCR_REGISTRY
+          '''
+        }
+      }
+    }
+
+    stage('Update Backend Deployment') {
+      steps {
+        withCredentials([usernamePassword(credentialsId: 'github-token', usernameVariable: 'GITHUB_USER', passwordVariable: 'GITHUB_TOKEN')]) {
+          sh '''
+            rm -rf cicd-repo
+            git clone https://$GITHUB_USER:$GITHUB_TOKEN@$CICD_REPO_URL cicd-repo
+
+            cd cicd-repo
+
+            git config user.name "jenkins-bot"
+            git config user.email "jenkins-bot@users.noreply.github.com"
+
+            echo "Before:"
+            grep -n "image:" $BACKEND_DEPLOYMENT_MANIFEST
+
+            sed -i "s|image: .*|image: $GHCR_IMAGE_NAME:$IMAGE_TAG|" $BACKEND_DEPLOYMENT_MANIFEST
+
+            echo "After:"
+            grep -n "$GHCR_IMAGE_NAME:$IMAGE_TAG" $BACKEND_DEPLOYMENT_MANIFEST
+
+            git diff -- $BACKEND_DEPLOYMENT_MANIFEST
+            git add $BACKEND_DEPLOYMENT_MANIFEST
+            git diff --cached --quiet && echo "No backend image change." || git commit -m "ci: update backend image to $IMAGE_TAG [skip ci]"
+            git pull --rebase origin main
+            git push origin main
+          '''
+        }
+      }
+    }
+  }
+
+  post {
+    success {
+      echo """
+============================================================
+  ✅ BiddingGo backend pipeline succeeded
+============================================================
+
+  🧭 Build
+    Job        : ${env.JOB_NAME} #${env.BUILD_NUMBER}
+    Duration   : ${currentBuild.durationString.replace(' and counting', '')}
+
+  🐳 Image
+    Version    : ${env.GHCR_IMAGE_NAME}:${env.IMAGE_TAG}
+
+============================================================
+"""
+    }
+
+    failure {
+      echo """
+============================================================
+  ❌ BiddingGo backend pipeline failed
+============================================================
+
+  🧭 Build
+    Job        : ${env.JOB_NAME} #${env.BUILD_NUMBER}
+    Duration   : ${currentBuild.durationString.replace(' and counting', '')}
+
+  🔎 Debug
+    Console    : ${env.BUILD_URL}console
+
+============================================================
+"""
+    }
+  }
+}
+```
+</details>
+
+---
+
+# 4.  시현
+<br/>
+
+🔗[ 백 ]( )
+
+🔗[ 백 ]( )
+
+🔗[ 백 ]( )
+
+🔗[ 프론트 ]( )
+
+🔗[ 프론트 ]( )
+
+🔗[ 프론트 ]( )
+
+🔗[ 1 ]( )
+
+
+
 <br/>
 
 ---
 
-# 4.  ERD
-![](img/erd.png)<br/>
-🔗[ ERD ](https://www.erdcloud.com/d/KdYRE8i9mnqYda2L5)
+
+# 5.  발표자료
+<br/>
+
+🔗[발표자료]( )
 <br/>
 
 ---
 
-# 5.  테이블 정의서
-![](img/table.PNG)<br/>
-🔗[MariaDB 테이블 정의서](https://docs.google.com/spreadsheets/d/1OoOrOKj8uusUITQNaMLExuCe3ReM_St3hvvKVMiX4vM/edit?gid=573455609#gid=573455609)
-
-🔗[Supabase 테이블 정의서](https://docs.google.com/spreadsheets/d/1OoOrOKj8uusUITQNaMLExuCe3ReM_St3hvvKVMiX4vM/edit?gid=141144957#gid=141144957)
-<br/>
-
----
-
-# 6.  시스템 아키텍처
-<br/>
-
-![](https://github.com/user-attachments/assets/15f9e2e3-2915-4a29-8dea-22d367af813c)<br/>
-<br/>
-
----
-# 7.  API 명세서
-![](img/table.PNG)<br/>
-🔗[API 명세서](https://www.notion.so/31e1072487c38010b4d4f280f3e03481?v=31e1072487c381709755000ca276af3c&source=copy_link)
-<br/>
-
----
-
-# 8.  테스트 계획 및 결과 보고서
-<br/>
-
-🔗[테스트 계획 및 결과 보고서](https://docs.google.com/spreadsheets/d/16YGKpTcpo310JjvUu9Q1Nm9atCI-XYx5TB2GD3ocx3E/edit?gid=1106294099#gid=1106294099)
-<br/>
-
----
-
-# 9.  회고
+# 11.  회고
 <br/>
 
 #### 김진혁
-> 작성
+>11 
  
 #### 박선우
-> 작성
+>11
 
 #### 윤정윤
-> 작성
+>11
 
 #### 이민경
-> 작성
+>11
 
 #### 이애은
-> 작성
+>11
 
 #### 한규진
-> 작성
-
+>11
