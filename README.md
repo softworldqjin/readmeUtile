@@ -660,13 +660,13 @@ fornt/back 각각의 변경에 대해서 무중단 배포 실행
 
 📽️[ 통합관리 젠킨스 ](https://youtu.be/LRn-8iS_6QM)
 
-<img width="1227" height="610" alt="Image" src="https://github.com/user-attachments/assets/57ea576d-cc52-4b71-b26b-78126d151494" />
+<img width="1235" height="611" alt="Image" src="https://github.com/user-attachments/assets/9d0f36a4-c56c-406e-8cdd-546b11510710" />
 
 ### ArgoCD 배포
 
 📽️[ 통합관리 ArgoCD ](https://youtu.be/4KkbAsrXCrM)
 
-<img width="1232" height="611" alt="Image" src="https://github.com/user-attachments/assets/00f7c850-076a-475f-b8b8-c25d86f6b123" />
+<img width="1293" height="612" alt="Image" src="https://github.com/user-attachments/assets/ae486f21-ada4-4059-bf47-4afcad909ec0" />
 
 
 
