@@ -601,7 +601,11 @@ pipeline {
 # 4.  시현
 <br/>
 
-시나리오
+## 시나리오
+
+<img width="1690" height="841" alt="Image" src="https://github.com/user-attachments/assets/566d743b-76c0-47d4-b212-ce2dcd0f451b" />
+<br/>
+
 1. 코드를 수정한 후 github develop에 최신 버전 프로젝트를 commit&push
 최신 버전 코드를 commit&push 하면 이벤트 발생 <br/>
 2. github는 webhook을 통해서 젠킨스에게 이벤트 전달 <br/>
